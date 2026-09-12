@@ -1,3 +1,5 @@
+https://football-intelligence-analytics-jka7u8e3g.vercel.app/
+
 FIFA World Cup Intelligence & Prediction System
 
 PART A — International Match Analytics
